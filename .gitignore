@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+users.db
+
+# Large files and datasets
+smart farming/PlantVillage-Dataset-master/
+smart farming/models/checkpoints/
+smart farming/models/plant_disease_model.h5
+
+# OS
+.DS_Store
+Thumbs.db
